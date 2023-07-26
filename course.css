@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+.fllex{
+   display: flex;
+   padding: 4px;
+   margin: 10px;
+}
+.first{
+    border: 2px solid black;
+    width: 450px;
+    height: 350px;
+    padding: 4px;
+    padding-left: 10px;
+    margin-right:80px ; 
+    text-align: center;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.second{
+    border: 2px solid black;  
+    width: 450px; 
+    height: 350px;
+    padding: 4px;
+    margin-right: 80px;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.third{
+    border: 2px solid black;
+    width: 450px;
+    height: 350px;
+    padding: 4px;
+    text-align: center;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+header{
+    background-color: darkred;
+    padding: 5px;
+    color: aliceblue;
+}
+.btn{
+    border-radius: 4px; 
+    background-color: aqua;
+    color: black;
+    width: 400px;
+    font-size: 30px;
+    height: 100px;
+}
+       .btn:hover{
+           color: white;
+      
+       }
+.bttn{
+padding-left: 545px;
+}

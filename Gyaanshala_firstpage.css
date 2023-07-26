@@ -1,0 +1,50 @@
+header{
+    background-color: rgb(20,15,68,0.938);
+    padding:10px;
+    font-style: italic;
+    text-align: center;
+    font-size: larger;
+    color: white;
+}
+nav{ 
+padding-right: 20px;
+margin: 10px;
+background-color: black;
+color: whitesmoke;
+
+}
+nav:hover{
+color: aqua;
+}
+.box{
+box-sizing: border-box;
+width: 1200px; 
+height: 730px;
+border: 1px solid black;
+border-radius: 5px;
+text-align: center;
+background-image: url(logo.jpg);
+background-repeat: no-repeat;
+padding-top: 260px;
+}
+#name{
+border-radius: 5px;
+}
+#Mobileno{
+border-radius: 5px;
+}
+#email{
+border-radius: 5px;
+}
+#state{
+border-radius: 5px;
+}
+#button{
+border-radius: 5px;
+}
+#name{
+border-radius: 5px;
+}
+#btn{
+border-radius: 5px;
+}
